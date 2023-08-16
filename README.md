@@ -12,3 +12,6 @@
 | :-----------------------: | :-----------------: | :-------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **2023-07-12(Wed)/21:00** |  Ch.1,2   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | https://github.com/WhiteKow/site-reliability-engineering/issues/1 |
 | **2023-07-19(Wed)/21:00** |  Ch.3,4,5   | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | https://github.com/WhiteKow/site-reliability-engineering/issues/2 |
+| **2023-07-26(Wed)/21:00** | Ch.6,7 | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | https://github.com/WhiteKow/site-reliability-engineering/issues/3 |
+| **2023-08-02(Wed)/21:00** | Ch.8,9,10 | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | https://github.com/WhiteKow/site-reliability-engineering/issues/4 |
+| **2023-08-16(Wed)/22:00** | Ch.11,12,13 | @hhhyunwoo, @jjangsungwon, @ChanhuiSeok | https://github.com/WhiteKow/site-reliability-engineering/issues/5 |
